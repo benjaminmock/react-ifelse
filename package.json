@@ -1,0 +1,29 @@
+{
+  "name": "react-ifelse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminmock/react-ifelse.git"
+  },
+  "author": "Benjamin Mock <bmock@ebay.com> (AWF)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminmock/react-ifelse/issues"
+  },
+  "homepage": "https://github.com/benjaminmock/react-ifelse#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "enzyme": "^3.2.0",
+    "mocha": "^4.0.1",
+    "prop-types": "^15.6.0",
+    "react": "^16.1.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
